@@ -253,7 +253,7 @@ interface FastEthernet0/4
 ## 👤 Author
 
 **MOHAMED ADAN MOHAMUD**
-- GitHub: [@dacaraadamdacar](https://github.com/dacaraadamdacar)
+- GitHub: [@Mohamed-Dacar](https://github.com/Mohamed-Dacar)
 - LinkedIn: [www.linkedin.com/in/mohamed-adan-mohamud-97558213a](http://www.linkedin.com/in/mohamed-adan-mohamud-97558213a)
 
 ---
